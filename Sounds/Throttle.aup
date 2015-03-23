@@ -1,0 +1,65 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="Throttle_data" version="1.3.0" audacityversion="2.0.6" sel0="1.0099166667" sel1="2.5932291667" vpos="80" h="0.0000000000" zoom="86.1328125000" rate="48000.0" snapto="off" selectionformat="hh:mm:ss + milliseconds">
+	<tags/>
+	<wavetrack name="ThrottleAttaack" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="48000" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="26555">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000677.au" len="26555" min="-0.252509" max="0.315359" rms="0.037789"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="ThrottleAttaack" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="48000" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="26555">
+				<waveblock start="0">
+					<simpleblockfile filename="e00007bf.au" len="26555" min="-0.252509" max="0.315359" rms="0.037789"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="ThhrottleSustain" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="48000" gain="1.0" pan="0.0">
+		<waveclip offset="0.55322917">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="21921">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000e5c.au" len="21921" min="-0.146119" max="0.16749" rms="0.032404"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="ThhrottleSustain" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="48000" gain="1.0" pan="0.0">
+		<waveclip offset="0.55322917">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="21921">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000fc0.au" len="21921" min="-0.146119" max="0.16749" rms="0.032404"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="ThrottleDecay" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="96000" gain="1.412538" pan="0.5">
+		<waveclip offset="1.00991667">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="151998">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000b58.au" len="151998" min="-0.102386" max="0.118927" rms="0.009015"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="ThrottleDecay" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="96000" gain="1.412538" pan="0.5">
+		<waveclip offset="1.00991667">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="151998">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000e31.au" len="151998" min="-0.05246" max="0.056885" rms="0.004814"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>

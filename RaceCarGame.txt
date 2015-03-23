@@ -1,0 +1,8 @@
+w - accelerate
+s - brake
+a/d - left/right
+
+q - flip car back onto it's wheels
+
+space - handbrake
+rightshift - shoot
